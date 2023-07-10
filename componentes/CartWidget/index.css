@@ -1,0 +1,15 @@
+button{
+    padding: .5rem 1rem;
+    background-color: greenyellow;
+    border: none;
+}
+button i, div p{
+    color: black;
+}
+button i{
+    margin-right: .25rem;
+}
+button p{
+    margin: 0;
+    font-size: 20px;
+}
