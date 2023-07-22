@@ -1,0 +1,27 @@
+.detailsCont{
+    padding: 2rem;
+}
+.contDetails{
+    padding: 1rem;
+}
+.imgContainer{
+    background-color: white;
+    height: 100%;
+}
+.imgContainer img{
+    margin: 0 auto;
+}
+.infoContainer{
+    background-color: #0f0f0f;
+}
+h1{
+    color: greenyellow;
+}
+.btnCount{
+    font-size: 20px;
+    margin: 0;
+}
+.detailsDesc{
+    color: white;
+    font-size: 20px;
+}
