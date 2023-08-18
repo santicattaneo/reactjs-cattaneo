@@ -3,13 +3,13 @@ button{
     background-color: greenyellow;
     border: none;
 }
-button i, div p{
-    color: black;
-}
 button i{
     margin-right: .25rem;
+    padding: .45rem 0 .45rem 0;
 }
-button p{
+#contador{
+    color: black;
     margin: 0;
     font-size: 20px;
+    font-family: "Azonix";
 }

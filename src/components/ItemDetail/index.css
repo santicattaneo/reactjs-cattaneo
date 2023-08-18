@@ -1,0 +1,39 @@
+.detailsCont{
+    padding: 2rem;
+}
+.contDetails{
+    padding: 1rem;
+}
+.imgContainer{
+    background-color: white;
+    height: 100%;
+}
+.imgContainer img{
+    margin: 0 auto;
+}
+.infoContainer{
+    background-color: #0f0f0f;
+}
+h1{
+    color: greenyellow;
+}
+.btnCount{
+    font-size: 20px;
+    margin: 0;
+}
+.detailsDesc{
+    color: white;
+    font-size: 20px;
+}
+.aggBtn{
+    padding: .5rem;
+    text-decoration: none;
+    font-size: 24px;
+    width: 100%;
+    font-size: 20px;
+    background-color: greenyellow;
+    text-align: center;
+    width: 100%;
+    color: black;
+    margin: 0;
+}

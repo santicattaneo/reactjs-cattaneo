@@ -1,0 +1,20 @@
+form button{
+    width: 100%;
+    font-size: 24px;
+    color: black;
+}
+label{
+    color: greenyellow;
+}
+input{
+    padding: .5rem;
+}
+.finishCont{
+    text-align: center;
+}
+.btnFinish{
+    text-decoration: none;
+    padding: .5rem 1rem;
+    color: black;
+    background-color: greenyellow;
+}

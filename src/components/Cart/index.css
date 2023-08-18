@@ -1,0 +1,25 @@
+.toHome{
+    text-decoration: none;
+    color: black;
+    padding: .5rem;
+    background-color: greenyellow;
+    width: 26%;
+    text-align: center;
+}
+.total{
+    font-size: 24px;
+}
+.btnCheckOut{
+    padding: 1rem;
+    text-decoration: none;
+    background-color: greenyellow;
+    color: black;
+}
+.btnVaciar{
+    text-decoration: none;
+    background-color: black;
+    color: greenyellow;
+}
+.btnContainer{
+    margin-top: 32px;
+}

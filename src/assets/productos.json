@@ -1,0 +1,22 @@
+[
+        {"id":"1","nombre":"Auricular LOGITECH G335","desc":"","precio":"46740","img":"https://i.postimg.cc/rmzyGGJJ/a1.png"},
+        {"id":"2","nombre":"Auricular REDRAGON Zeus X H510","desc":"","precio":"50566","img": "https://i.postimg.cc/FF8zZ6wJ/a2.jpg"},
+        {"id":"3","nombre":"Auricular RAZER Kraken X Lite","desc":"","precio":"51250","img": "https://i.postimg.cc/ZRqn7zT6/a3.webp"},
+        {"id":"4","nombre":"Auricular LOGITECH Astro a10","desc":"","precio":"55350","img": "https://i.postimg.cc/Hk4LTknQ/a4.jpg"},
+        {"id":"5","nombre":"Auricular LOGITECH G435","desc":"","precio":"62642","img": "https://i.postimg.cc/WbZ3fnPY/a5.jpg"},
+        {"id":"6","nombre":"Auricular COOLERMASTER MH670","desc":"","precio":"73261","img": "https://i.postimg.cc/PxFx0Vx9/a6.jpg"},
+        {"id":"7","nombre":"Auricular HYPERX Cloud Stinger","desc":"","precio":"83695","img": "https://i.postimg.cc/zfzGvYH4/a7.webp"},
+        {"id":"8","nombre":"Auricular HYPERX Cloud II Black","desc":"","precio":"83695","img": "https://i.postimg.cc/FKHkqLpf/a8.jpg"},
+        {"id":"9","nombre":"Teclado REDRAGON Dragonborn","desc":"","precio":"30304","img": "https://i.postimg.cc/L8R1t7Z3/t1.png"},
+        {"id":"10","nombre":"Teclado REDRAGON Shrapnel","desc":"","precio":"34525","img": "https://i.postimg.cc/907WKWsw/t2.jpg"},
+        {"id":"11","nombre":"Teclado REDRAGON Kumara K552","desc":"","precio":"35158","img": "https://i.postimg.cc/KvtTgF4Y/t3.png"},
+        {"id":"12","nombre":"Teclado LOGITECH K835","desc":"","precio":"39000","img": "https://i.postimg.cc/C1WZz6gD/t4.png"},
+        {"id":"13","nombre":"Teclado REDRAGON Deimos","desc":"","precio":"46125","img": "https://i.postimg.cc/PJYCZzX7/t5.png"},
+        {"id":"14","nombre":"Teclado REDRAGON Draconic","desc":"","precio":"47080","img": "https://i.postimg.cc/13HNJHGh/t6.png"},
+        {"id":"15","nombre":"Teclado REDRAGON Magic-Wand","desc":"","precio":"47951","img": "https://i.postimg.cc/mrp1Ggpm/t7.png"},
+        {"id":"16","nombre":"Mouse LOGITECH G203","desc":"","precio":"18695","img": "https://i.postimg.cc/htqjFdDD/m1.jpg"},
+        {"id":"17","nombre":"Mouse COOLERMASTER MM711","desc":"","precio":"18817","img": "https://i.postimg.cc/43j457SR/m2.png"},
+        {"id":"18","nombre":"Mouse REDRAGON Storm Elite","desc":"","precio":"18963","img": "https://i.postimg.cc/SNb245Vb/m3.jpg"},
+        {"id":"19","nombre":"Mouse VSG Aquila Air","desc":"","precio":"21238","img": "https://i.postimg.cc/Dm32K9Kj/m4.png"},
+        {"id":"20","nombre":"Mouse RAZER Deathadder V2","desc":"","precio":"23709","img": "https://i.postimg.cc/fWGXLkzF/m5.jpg"}
+]
