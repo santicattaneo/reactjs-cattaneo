@@ -1,6 +1,5 @@
 import "./index.css"
 import ItemCount from "../ItemCount"
-<<<<<<< HEAD
 import { useState, useContext } from "react"
 import { CartContext } from '../../context/CartContext'
 import { Link } from 'react-router-dom';
@@ -13,14 +12,6 @@ function ItemDetail ({producto}) {
             addItem(producto, cant)
         }
         setCantAdd(cant)
-=======
-
-function ItemDetail ({producto}) {
-    function onAdd (cant) {
-        if (cant > 0){
-            console.log(`compraste ${cant} objeto/s`)
-        }
->>>>>>> 16de89f94b7da5a681fd5283f37103ce5099907a
     }
     return (
         <div className="container contDetails">
@@ -38,12 +29,8 @@ function ItemDetail ({producto}) {
                     <div>
                         <p className="detailsDesc mt-4 mb-5">{producto.desc}</p>
                     </div>
-<<<<<<< HEAD
                     { cantAdd === '' ? <ItemCount initial={1} stock={producto.stock} onAdd={onAdd}/>
                     : <Link className='aggBtn' to='/cart'>CARRITO</Link> }
-=======
-                    <ItemCount initial={1} stock={producto.stock} onAdd={onAdd}/>
->>>>>>> 16de89f94b7da5a681fd5283f37103ce5099907a
                 </div>
             </div>
         </div>
