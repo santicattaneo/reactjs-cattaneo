@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { Link, NavLink} from 'react-router-dom';
+=======
+import { Link } from 'react-router-dom';
+>>>>>>> 16de89f94b7da5a681fd5283f37103ce5099907a
 import CartWidget from '../CartWidget'
 import './index.css';
 
@@ -13,7 +17,11 @@ function NavBar () {
                     <li><Link className='navbarLink' to='/categoria/teclados'>TECLADOS</Link></li>
                     <li><Link className='navbarLink' to='/categoria/mouses'>MOUSES</Link></li>
                 </ul>
+<<<<<<< HEAD
                 <NavLink className='navlink' to='/cart'><CartWidget/></NavLink>
+=======
+                <CartWidget/>
+>>>>>>> 16de89f94b7da5a681fd5283f37103ce5099907a
             </div>
         </nav>
     )

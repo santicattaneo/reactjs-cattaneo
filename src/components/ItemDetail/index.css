@@ -24,6 +24,7 @@ h1{
 .detailsDesc{
     color: white;
     font-size: 20px;
+<<<<<<< HEAD
 }
 .aggBtn{
     padding: .5rem;
@@ -36,4 +37,6 @@ h1{
     width: 100%;
     color: black;
     margin: 0;
+=======
+>>>>>>> 16de89f94b7da5a681fd5283f37103ce5099907a
 }
